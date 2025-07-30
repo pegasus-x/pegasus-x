@@ -1,8 +1,8 @@
   ## Hi👋, I'm Rati Ranjan Sendha 
 
 # 💫 About Me:
-🌱 I’m currently learning Web Development,Game Development,Python. <br>
-📄 Know about my experiences https://ratiresumetwo.tiiny.site <br>
+🌱 I’m currently learning Web Development,Game Development, Python. <br>
+📄 Know about my experiences : https://ratiresumetwo.tiiny.site <br>
 📫 How to reach me: ratiranjan905@gmail.com 
 
 
