@@ -1,4 +1,4 @@
-## Hi👋, I'm Rati Ranjan Sendha 
+  ## Hi👋, I'm Rati Ranjan Sendha 
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development,Game Development,Python. <br>
