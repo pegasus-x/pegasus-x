@@ -1,20 +1,9 @@
 ## Hi👋, I'm Rati Ranjan Sendha 
 
-<!--
-**pegasus-x/pegasus-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+# 💫 About Me:
+🌱 I’m currently learning Web Development,Game Development,Python.
 📄 Know about my experiences https://ratiresumetwo.tiiny.site
 📫 How to reach me: ratiranjan905@gmail.com 
--->
-# 💫 About Me:
-🌱 I’m currently learning Web Development,Game Development,Python.<br>💬 
 
 
 ## 🌐 Socials:
