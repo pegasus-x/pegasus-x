@@ -3,7 +3,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Web Development,Game Development, Python. <br>
 📄 Know about my experiences : https://ratiresumetwo.tiiny.site <br>
-📫 How to reach me: ratiranjan905@gmail.com 
+📫 How to reach me : ratiranjan905@gmail.com 
 
 
 ## 🌐 Socials:
