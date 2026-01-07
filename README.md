@@ -1,6 +1,6 @@
 Hi 👋, I'm Rati Ranjan Sendha
 # 💫 About Me:
-🔭 I’m currently working on: Real Time Chat App (https://chat-app-1-iqsp.onrender.com/)    <br>🌱 I’m currently learning: Web Development, Python & Game Development<br>
+🔭 I’m currently working on: AI-Site-Builder    <br>🌱 I’m currently learning: Web Development, Python & Game Development<br>
 📫 How to reach me: ratiranjan905@gmail.com <br>
 📄 Know about my experiences: https://ratiresumetwo.tiiny.site 
 
