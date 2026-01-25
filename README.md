@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rati Ranjan Sendha
+Hi! My name is Rati Ranjan Sendha ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
 Full Stack Developer
@@ -19,7 +19,6 @@ Full Stack Developer
 <a href="https://www.x.com/pega07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pega07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
