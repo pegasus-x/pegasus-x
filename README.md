@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,35:4F46E5,70:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Product+Engineer;Building+Scalable+Digital+Experiences;MCA+Student+%40+KIIT+University" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MCA-KIIT_University-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BSc-Information_Technology-4F46E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-7.85-8B5CF6?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=The+Dark+Knight+of+Code;AI+•+Full+Stack+•+Product+Engineering;Building+Intelligent+Digital+Experiences;Powered+by+Discipline+Driven+by+Curiosity;Pegasus+Protocol+Activated" />
 </p>
 
 <p align="center">
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-link.com">
+  <a href="https://github.com/pegasus-x">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/rati-ranjan-sendha">
@@ -34,18 +28,28 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pegasus-x&style=for-the-badge&color=7C3AED" />
   <img src="https://img.shields.io/github/followers/pegasus-x?style=for-the-badge&color=6366F1" />
-  <img src="https://img.shields.io/github/stars/pegasus-x?affiliations=OWNER&style=for-the-badge&color=A855F7" />
 </p>
 
 ---
 
-# About Me
+# 🦇 About Me
 
 Software Engineer focused on building scalable web platforms, AI-powered products, and enterprise-grade digital experiences.
 
-I specialize in full-stack development using modern JavaScript ecosystems while integrating AI capabilities into production-ready applications. My engineering approach emphasizes clean architecture, maintainability, performance optimization, security, accessibility, and business impact.
+I specialize in full-stack development using modern JavaScript ecosystems while integrating AI capabilities into production-ready applications.
 
-Currently pursuing a Master of Computer Applications at KIIT University while building SaaS products, AI platforms, and open-source projects.
+My engineering approach emphasizes:
+
+- Clean Architecture
+- Performance Optimization
+- Scalability
+- Security
+- Accessibility
+- Product Thinking
+
+Focused on building AI-powered SaaS products, scalable web platforms, and intelligent developer tools.
+
+My mission is to combine product thinking, software engineering, and artificial intelligence to create systems that deliver real-world impact.
 
 ### Open To
 
@@ -54,11 +58,27 @@ Currently pursuing a Master of Computer Applications at KIIT University while bu
 - AI Engineering
 - Product Engineering
 - Open Source Collaboration
-- Internship & Graduate Opportunities
+- Startup Opportunities
 
 ---
 
-# Tech Stack
+# 🦇 The Pegasus Protocol
+
+I approach engineering with a product-first mindset.
+
+Every project I build follows five principles:
+
+- Scalability
+- Performance
+- Security
+- User Experience
+- Maintainability
+
+Inspired by Batman's discipline and Pegasus' ambition, I believe software engineering is the art of transforming ideas into reliable systems that solve meaningful problems.
+
+---
+
+# ⚙️ Tech Stack
 
 ## Languages
 
@@ -86,23 +106,23 @@ Currently pursuing a Master of Computer Applications at KIIT University while bu
 
 ---
 
-# AI / ML Expertise
+# 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Generative AI | Advanced | LLM Integrations, Prompt Engineering |
-| AI Product Development | Advanced | AI SaaS Platforms |
+| Generative AI | Advanced | LLM Integrations & Prompt Engineering |
+| AI Product Development | Advanced | SaaS Platforms & Automation |
 | Conversational AI | Advanced | Voice & Chat Systems |
 | AI Workflow Automation | Advanced | Business Process Automation |
 | Retrieval Systems | Intermediate | Context-Aware Applications |
-| AI Integrations | Advanced | OpenRouter, AI APIs, Model Routing |
+| AI Integrations | Advanced | OpenRouter, APIs, Model Routing |
 
 ---
 
-# Featured Projects
+# 🦇 Featured Arsenal
 
 <details>
-<summary><b>DentWise – AI Dental Assistant</b></summary>
+<summary><b>🦇 DentWise — The AI Healthcare Platform</b></summary>
 
 ### Enterprise AI Healthcare Platform
 
@@ -115,12 +135,12 @@ Currently pursuing a Master of Computer Applications at KIIT University while bu
 | Impact | Automated Dental Consultation Workflow |
 | Repository | Coming Soon |
 
-DentWise is an AI-powered dental assistant platform enabling intelligent consultations, appointment booking, voice interactions, and healthcare workflow automation.
+DentWise is an AI-powered healthcare assistant designed to automate consultations, appointment booking, voice interactions, and intelligent patient workflows.
 
 </details>
 
 <details>
-<summary><b>AI Site Builder Platform</b></summary>
+<summary><b>⚡ AI Site Builder — The Website Factory</b></summary>
 
 ### AI SaaS Website Generation Platform
 
@@ -133,14 +153,14 @@ DentWise is an AI-powered dental assistant platform enabling intelligent consult
 | Impact | Natural Language to Production Website |
 | Repository | Private Development |
 
-A complete AI-powered website builder that converts natural language prompts into responsive deployment-ready websites.
+Transforms simple prompts into complete deployment-ready websites using AI-powered code generation and automated workflows.
 
 </details>
 
 <details>
-<summary><b>Pegasus Portfolio Platform</b></summary>
+<summary><b>🐎 Pegasus — Digital Command Center</b></summary>
 
-### Personal Brand Engineering System
+### Personal Brand Engineering Platform
 
 | Metric | Details |
 |---------|---------|
@@ -151,21 +171,35 @@ A complete AI-powered website builder that converts natural language prompts int
 | Impact | Professional Developer Presence |
 | Repository | In Development |
 
-A premium portfolio platform showcasing engineering capabilities, projects, and professional achievements.
+A premium developer portfolio and command center showcasing projects, skills, and engineering journey.
+
+</details>
+
+<details>
+<summary><b>🌃 Batman Portfolio — Gotham Showcase</b></summary>
+
+### Comic-Inspired Developer Portfolio
+
+| Metric | Details |
+|---------|---------|
+| Stack | HTML, CSS, JavaScript, GSAP |
+| Scale | Portfolio Platform |
+| Performance | Animation Optimized |
+| Security | Static Deployment |
+| Impact | Unique Developer Branding |
+| Repository | Public Repository |
+
+A Gotham-inspired developer portfolio featuring immersive interactions and cinematic storytelling.
 
 </details>
 
 ---
 
-# Experience
+# 💼 Experience
 
 ## Web Developer — Thyo Softech Private Limited
 
 **Jan 2024 – Sep 2024**
-
-Worked on scalable PHP & MySQL applications with a strong focus on frontend responsiveness, backend performance, and collaborative software delivery.
-
-### Scope of Work
 
 - Developed production-ready web applications
 - Optimized database performance
@@ -173,7 +207,7 @@ Worked on scalable PHP & MySQL applications with a strong focus on frontend resp
 - Participated in Agile workflows
 - Conducted code reviews and Git collaboration
 
-**Skills:** `PHP` `MySQL` `Git` `GitHub` `Frontend Development`
+**Skills:** `PHP` `MySQL` `Git` `GitHub`
 
 ---
 
@@ -181,97 +215,54 @@ Worked on scalable PHP & MySQL applications with a strong focus on frontend resp
 
 **May 2023 – Jan 2024**
 
-Contributed to web modules, testing workflows, UI development, and software delivery processes.
-
-### Scope of Work
-
 - Built PHP-based application modules
 - Improved maintainability through reviews
 - Supported Agile delivery cycles
 - Enhanced user experience and stability
 
-**Skills:** `PHP` `Web Development` `Git` `Responsive Design`
+**Skills:** `PHP` `Web Development` `Git`
 
 ---
 
-# Achievements
+# 🦇 Engineering Philosophy
 
-| Recognition | Details |
-|------------|---------|
-| MCA Student | KIIT University |
-| Full Stack Engineer | Production Web Applications |
-| AI Product Builder | SaaS & AI Platforms |
-| Open Source Enthusiast | Continuous Learning & Contributions |
-| Software Developer | Industry Internship Experience |
+> "Code is not the product. The experience created by the code is."
 
----
+I focus on building software that balances:
 
-# Certifications
+- Clean Architecture
+- Performance Optimization
+- Accessibility
+- Security
+- Scalability
+- Business Value
 
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Computing-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+Every system should be maintainable, reliable, and capable of evolving with user needs.
 
 ---
 
-# Coding Profiles
+# 📊 GitHub Analytics
 
 <p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pegasus-x&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus-x&theme=midnight-purple&hide_border=true"/>
+</p>
 
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Skills-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=for-the-badge"/>
-</a>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-x&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
 
-# GitHub Analytics
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pegasus-x&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=pegasus-x&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pegasus-x&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pegasus-x&theme=discord&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pegasus-x&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pegasus-x&theme=tokyo-night"/>
@@ -279,7 +270,7 @@ Contributed to web modules, testing workflows, UI development, and software deli
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -287,35 +278,34 @@ Contributed to web modules, testing workflows, UI development, and software deli
 
 ---
 
-# Current Focus
+# 🦇 Current Mission
 
 ```yaml
-Learning:
-  - Advanced System Design
-  - Cloud Architecture
-  - AI Engineering
-  - Scalable Backend Systems
-
 Building:
   - DentWise AI Platform
   - AI Site Builder SaaS
-  - Open Source Projects
+  - Pegasus Portfolio
+
+Mastering:
+  - System Design
+  - Cloud Engineering
+  - AI Engineering
 
 Exploring:
   - Agentic AI
-  - Multi-Model Architectures
-  - Product Engineering
+  - Multi-Agent Systems
+  - Product Architecture
 
 Open To:
   - Software Engineering Roles
-  - AI Engineering Roles
-  - Full Stack Development
+  - Product Engineering
+  - AI Engineering
   - Open Source Collaboration
-````
+```
 
 ---
 
-# Connect
+# 🤝 Connect
 
 <p align="center">
 
@@ -331,18 +321,14 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
-</a>
-
 </p>
 
 ---
 
 <p align="center">
-"Engineering scalable systems today to solve meaningful problems tomorrow."
+<b>🦇 Building the future from the shadows, one commit at a time.</b>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1A1B27,35:4F46E5,70:7C3AED,100:A855F7"/>
 </p>
