@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Building scalable digital products through software engineering, artificial intelligence, and product thinking.
+Building scalable software, AI-powered products, and modern digital experiences.
 </p>
 
 <p align="center">
@@ -22,12 +22,8 @@ Building scalable digital products through software engineering, artificial inte
     <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pegasus-x">
-    <img src="https://img.shields.io/badge/GitHub-Profile-1E293B?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/pegasus-x?style=for-the-badge&color=6366F1" />
 </p>
 
 ---
@@ -36,9 +32,9 @@ Building scalable digital products through software engineering, artificial inte
 
 Software Engineer with experience building scalable web applications, AI-powered platforms, and modern digital products.
 
-My work combines full-stack engineering, product thinking, and artificial intelligence to create solutions that are practical, performant, and user-focused.
+I specialize in full-stack development, product engineering, and AI integrations, focusing on creating software that is performant, maintainable, and user-centric.
 
-I enjoy designing systems from idea to deployment while maintaining strong engineering principles around scalability, maintainability, performance, and user experience.
+My work combines software engineering principles, product thinking, and emerging AI technologies to build solutions that deliver measurable impact.
 
 ### Open To
 
@@ -48,20 +44,6 @@ I enjoy designing systems from idea to deployment while maintaining strong engin
 - Product Engineering
 - Open Source Collaboration
 - Startup Opportunities
-
----
-
-# Core Principles
-
-The best software balances:
-
-- Scalability
-- Performance
-- Security
-- Maintainability
-- User Experience
-
-I focus on building products that solve real-world problems while remaining reliable, accessible, and easy to evolve.
 
 ---
 
@@ -85,7 +67,7 @@ I focus on building products that solve real-world problems while remaining reli
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma" />
 </p>
 
-### Cloud, DevOps & Tooling
+### Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel,netlify" />
@@ -93,16 +75,16 @@ I focus on building products that solve real-world problems while remaining reli
 
 ---
 
-# AI & Product Engineering
+# Areas of Interest
 
-| Domain | Focus Area |
-|----------|----------|
-| Generative AI | LLM Integrations & Prompt Engineering |
-| AI Products | AI-powered SaaS Applications |
-| Conversational Systems | Voice & Chat Experiences |
-| Workflow Automation | Intelligent Process Automation |
-| Product Engineering | Scalable User-Centric Systems |
-| AI Integrations | OpenRouter, APIs & Multi-Model Systems |
+- Artificial Intelligence
+- Full Stack Development
+- Product Engineering
+- SaaS Platforms
+- Cloud Technologies
+- System Design
+- Developer Experience
+- Scalable Architectures
 
 ---
 
@@ -247,7 +229,7 @@ The goal is not simply to write code, but to build systems that remain reliable,
 
 ---
 
-# Current Focus
+# 2026 Focus
 
 ```yaml
 Building:
