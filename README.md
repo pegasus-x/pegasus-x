@@ -214,33 +214,25 @@ The goal is not simply to write code, but to build systems that remain reliable,
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pegasus-x&theme=tokyo-night"/>
 </p>
-## Current Focus
+# Current Focus
 
-```yaml
-Building:
-  - DentWise (AI Healthcare Platform)
-  - AI Site Builder (Generative SaaS)
-  - Pegasus (Personal Brand Platform)
-
-Learning:
-  - System Design
-  - Cloud Architecture
-  - AI Engineering
-  - Scalable Backend Systems
-
-Exploring:
-  - Agentic AI
-  - Multi-Agent Systems
-  - Product Architecture
-
-Seeking:
-  - Software Engineering Opportunities
-  - AI Product Development
-  - Open Source Collaboration
-```
+| Area | Focus |
+|--------|--------|
+| 🚀 Building | DentWise AI Healthcare Platform |
+| 🚀 Building | AI Site Builder SaaS |
+| 🚀 Building | Pegasus Portfolio Platform |
+| 📚 Learning | System Design |
+| 📚 Learning | Cloud Architecture |
+| 📚 Learning | AI Engineering |
+| 📚 Learning | Scalable Backend Systems |
+| 🔬 Exploring | Agentic AI |
+| 🔬 Exploring | Multi-Agent Systems |
+| 🔬 Exploring | Product Architecture |
+| 🎯 Seeking | Software Engineering Opportunities |
+| 🎯 Seeking | AI Product Development |
+| 🎯 Seeking | Open Source Collaboration |
 
 ---
-
 # Let's Connect
 
 <p align="center">
