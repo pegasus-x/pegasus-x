@@ -1,18 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,25:312E81,50:4F46E5,75:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=FFFFFF&fontSize=44&fontAlignY=38&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:312E81,50:4F46E5,75:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Product%20Builder&descAlignY=58&descSize=18" />
 </p>
 
-<h1 align="center">Rati Ranjan Sendha</h1>
-
-<p align="center">
-  <strong>Software Engineer</strong> •
-  <strong>Full Stack Developer</strong> •
-  <strong>AI Product Builder</strong>
-</p>
-
-<p align="center">
-Building scalable software, AI-powered products, and modern digital experiences.
-</p>
+<h3 align="center">
+Building scalable software, AI-powered products, and modern digital experiences
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/rati-ranjan-sendha">
@@ -25,8 +17,6 @@ Building scalable software, AI-powered products, and modern digital experiences.
     <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 # About
 
@@ -75,7 +65,7 @@ My work combines software engineering principles, product thinking, and emerging
 
 ---
 
-# Areas of Interest
+# Focus Areas
 
 - Artificial Intelligence
 - Full Stack Development
@@ -166,7 +156,7 @@ A cinematic developer portfolio inspired by Gotham aesthetics featuring immersiv
 
 # Professional Experience
 
-## Web Developer — Thyo Softech Private Limited
+### Web Developer — Thyo Softech Private Limited
 
 **Jan 2024 – Sep 2024**
 
@@ -178,9 +168,7 @@ A cinematic developer portfolio inspired by Gotham aesthetics featuring immersiv
 
 **Skills:** `PHP` `MySQL` `Git` `GitHub`
 
----
-
-## Junior Web Developer — Techzex Software Private Limited
+### Junior Web Developer — Techzex Software Private Limited
 
 **May 2023 – Jan 2024**
 
@@ -229,7 +217,7 @@ The goal is not simply to write code, but to build systems that remain reliable,
 
 ---
 
-# 2026 Focus
+# Current Focus
 
 ```yaml
 Building:
@@ -251,10 +239,6 @@ Seeking:
   - Software Engineering Opportunities
   - AI Product Development
   - Open Source Collaboration
-```
-
----
-
 # Connect
 
 <p align="center">
@@ -276,7 +260,7 @@ Seeking:
 ---
 
 <p align="center">
-<strong>Building the future through software, AI, and innovation.</strong>
+  <i>Building reliable systems, intelligent products, and meaningful digital experiences.</i>
 </p>
 
 <p align="center">
