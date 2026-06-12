@@ -154,32 +154,12 @@ A cinematic developer portfolio inspired by Gotham aesthetics featuring immersiv
 
 ---
 
-# Professional Experience
+# Professional Snapshot
 
-### Web Developer — Thyo Softech Private Limited
-
-**Jan 2024 – Sep 2024**
-
-- Developed production-ready PHP and MySQL web applications
-- Optimized backend systems and database performance
-- Built responsive user interfaces
-- Participated in Agile development cycles
-- Collaborated through Git and GitHub workflows
-
-**Skills:** `PHP` `MySQL` `Git` `GitHub`
-
-### Junior Web Developer — Techzex Software Private Limited
-
-**May 2023 – Jan 2024**
-
-- Built and maintained PHP-based modules
-- Improved application stability and maintainability
-- Participated in code reviews
-- Supported feature delivery and testing workflows
-
-**Skills:** `PHP` `Web Development` `Git`
-
----
+- 1+ years of professional web development experience
+- Experience building production web applications using PHP & MySQL
+- Focused on Full Stack Development, AI Products, and SaaS Platforms
+- Currently building AI-powered applications and modern developer tools---
 
 # Engineering Philosophy
 
