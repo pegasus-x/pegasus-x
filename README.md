@@ -5,7 +5,7 @@
 <h1 align="center">Rati Ranjan Sendha</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Product Builder
+ Full Stack Developer • Product Builder
 </h3>
 
 <p align="center">
