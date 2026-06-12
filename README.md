@@ -214,7 +214,6 @@ The goal is not simply to write code, but to build systems that remain reliable,
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pegasus-x&theme=tokyo-night"/>
 </p>
-# Current Focus
 
 # Current Focus
 
@@ -242,8 +241,6 @@ The goal is not simply to write code, but to build systems that remain reliable,
 - Software Engineering Opportunities
 - AI Product Development
 - Open Source Collaboration
-
----
 ---
 # Let's Connect
 
