@@ -1,61 +1,44 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,35:4F46E5,70:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,25:312E81,50:4F46E5,75:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=FFFFFF&fontSize=44&fontAlignY=38&animation=fadeIn" />
 </p>
 
 <h1 align="center">Rati Ranjan Sendha</h1>
 
-<h3 align="center">
- Full Stack Developer • Product Builder
-</h3>
-
 <p align="center">
-Building intelligent digital experiences through software engineering, AI, and product thinking.
+  <strong>Software Engineer</strong> •
+  <strong>Full Stack Developer</strong> •
+  <strong>AI Product Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bhubaneswar-Odisha-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white" />
+Building scalable digital products through software engineering, artificial intelligence, and product thinking.
 </p>
 
 <p align="center">
-  <a href="https://github.com/pegasus-x">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/rati-ranjan-sendha">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ratiranjan905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pegasus-x">
-    <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-1E293B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pegasus-x&style=for-the-badge&color=7C3AED" />
   <img src="https://img.shields.io/github/followers/pegasus-x?style=for-the-badge&color=6366F1" />
 </p>
 
 ---
 
-# The Engineer Behind Pegasus
+# About
 
-Software Engineer focused on building scalable web platforms, AI-powered products, and enterprise-grade digital experiences.
+Software Engineer with experience building scalable web applications, AI-powered platforms, and modern digital products.
 
-I specialize in full-stack development using modern JavaScript ecosystems while integrating AI capabilities into production-ready applications.
+My work combines full-stack engineering, product thinking, and artificial intelligence to create solutions that are practical, performant, and user-focused.
 
-My engineering approach emphasizes:
-
-- Clean Architecture
-- Performance Optimization
-- Scalability
-- Security
-- Accessibility
-- Product Thinking
-
-Focused on building AI-powered SaaS products, scalable web platforms, and intelligent developer tools.
-
-My mission is to combine product thinking, software engineering, and artificial intelligence to create systems that deliver real-world impact.
+I enjoy designing systems from idea to deployment while maintaining strong engineering principles around scalability, maintainability, performance, and user experience.
 
 ### Open To
 
@@ -68,43 +51,41 @@ My mission is to combine product thinking, software engineering, and artificial 
 
 ---
 
-# The Pegasus Protocol
+# Core Principles
 
-I approach engineering with a product-first mindset.
-
-Every project I build follows five principles:
+The best software balances:
 
 - Scalability
 - Performance
 - Security
-- User Experience
 - Maintainability
+- User Experience
 
-Inspired by discipline, continuous learning, and innovation, I believe software engineering is the art of transforming ideas into reliable systems that solve meaningful problems.
+I focus on building products that solve real-world problems while remaining reliable, accessible, and easy to evolve.
 
 ---
 
-# Tech Stack
+# Technology Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,php" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-## Backend & Databases
+### Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma" />
 </p>
 
-## Cloud, DevOps & Tooling
+### Cloud, DevOps & Tooling
 
 <p>
 <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vercel,netlify" />
@@ -112,16 +93,16 @@ Inspired by discipline, continuous learning, and innovation, I believe software 
 
 ---
 
-# AI Expertise
+# AI & Product Engineering
 
-| Domain | Proficiency | Details |
-|----------|------------|----------|
-| Generative AI | Advanced | LLM Integrations & Prompt Engineering |
-| AI Product Development | Advanced | SaaS Platforms & Automation |
-| Conversational AI | Advanced | Voice & Chat Systems |
-| AI Workflow Automation | Advanced | Business Process Automation |
-| Retrieval Systems | Intermediate | Context-Aware Applications |
-| AI Integrations | Advanced | OpenRouter, APIs, Model Routing |
+| Domain | Focus Area |
+|----------|----------|
+| Generative AI | LLM Integrations & Prompt Engineering |
+| AI Products | AI-powered SaaS Applications |
+| Conversational Systems | Voice & Chat Experiences |
+| Workflow Automation | Intelligent Process Automation |
+| Product Engineering | Scalable User-Centric Systems |
+| AI Integrations | OpenRouter, APIs & Multi-Model Systems |
 
 ---
 
@@ -130,72 +111,72 @@ Inspired by discipline, continuous learning, and innovation, I believe software 
 <details>
 <summary><b>DentWise — AI Healthcare Platform</b></summary>
 
-### Enterprise AI Healthcare Platform
+### Overview
 
-| Metric | Details |
-|---------|---------|
+AI-powered healthcare assistant designed to automate consultations, appointment booking, voice interactions, and intelligent patient workflows.
+
+| Category | Details |
+|----------|----------|
 | Stack | Next.js, PostgreSQL, Prisma, Clerk, ElevenLabs |
-| Scale | Multi-user AI Platform |
-| Performance | Optimized Real-Time Interactions |
+| Architecture | Full Stack AI Platform |
 | Security | Authentication & Protected Routes |
-| Impact | Automated Dental Consultation Workflow |
-| Repository | Coming Soon |
-
-DentWise is an AI-powered healthcare assistant designed to automate consultations, appointment booking, voice interactions, and intelligent patient workflows.
+| Performance | Real-Time AI Interactions |
+| Impact | Automated Healthcare Workflows |
+| Status | Active Development |
 
 </details>
 
 <details>
 <summary><b>AI Site Builder — Website Generation Platform</b></summary>
 
-### AI SaaS Website Generation Platform
+### Overview
 
-| Metric | Details |
-|---------|---------|
+Transforms natural language prompts into complete deployment-ready websites using AI-powered code generation.
+
+| Category | Details |
+|----------|----------|
 | Stack | PERN Stack, OpenRouter AI, Tailwind CSS |
-| Scale | SaaS Multi-Tenant Platform |
-| Performance | Real-Time Website Generation |
-| Security | Authentication & Payment Verification |
-| Impact | Natural Language to Production Website |
-| Repository | Private Development |
-
-Transforms simple prompts into complete deployment-ready websites using AI-powered code generation and automated workflows.
+| Architecture | SaaS Platform |
+| Billing | Credit-Based Usage System |
+| Performance | Real-Time Code Generation |
+| Impact | Prompt-to-Website Workflow |
+| Status | Active Development |
 
 </details>
 
 <details>
-<summary><b>Pegasus — Digital Command Center</b></summary>
+<summary><b>Pegasus — Personal Portfolio Platform</b></summary>
 
-### Personal Brand Engineering Platform
+### Overview
 
-| Metric | Details |
-|---------|---------|
+Modern developer portfolio platform focused on personal branding, project showcasing, and engineering storytelling.
+
+| Category | Details |
+|----------|----------|
 | Stack | Next.js, Tailwind CSS |
-| Scale | Personal Branding Platform |
+| Focus | Developer Branding |
 | Performance | Optimized Lighthouse Scores |
-| Security | Modern Best Practices |
-| Impact | Professional Developer Presence |
-| Repository | In Development |
-
-A premium developer portfolio and command center showcasing projects, skills, and engineering journey.
+| Design | Modern UI Architecture |
+| Impact | Professional Online Presence |
+| Status | In Development |
 
 </details>
 
 <details>
-<summary><b>Batman Portfolio — Gotham Showcase</b></summary>
+<summary><b>Batman Portfolio — Interactive Developer Experience</b></summary>
 
-### Interactive Developer Portfolio
+### Overview
 
-| Metric | Details |
-|---------|---------|
+A cinematic developer portfolio inspired by Gotham aesthetics featuring immersive animations and storytelling.
+
+| Category | Details |
+|----------|----------|
 | Stack | HTML, CSS, JavaScript, GSAP |
-| Scale | Portfolio Platform |
-| Performance | Animation Optimized |
-| Security | Static Deployment |
-| Impact | Unique Developer Branding |
-| Repository | Public Repository |
-
-A Gotham-inspired developer portfolio featuring immersive interactions, advanced animations, and cinematic storytelling.
+| Focus | Interactive Experience |
+| Design | Animation-Driven UI |
+| Performance | Optimized Rendering |
+| Impact | Unique Personal Branding |
+| Status | Completed |
 
 </details>
 
@@ -207,11 +188,11 @@ A Gotham-inspired developer portfolio featuring immersive interactions, advanced
 
 **Jan 2024 – Sep 2024**
 
-- Developed production-ready web applications
-- Optimized database performance
-- Implemented responsive UI systems
-- Participated in Agile workflows
-- Conducted code reviews and Git collaboration
+- Developed production-ready PHP and MySQL web applications
+- Optimized backend systems and database performance
+- Built responsive user interfaces
+- Participated in Agile development cycles
+- Collaborated through Git and GitHub workflows
 
 **Skills:** `PHP` `MySQL` `Git` `GitHub`
 
@@ -221,10 +202,10 @@ A Gotham-inspired developer portfolio featuring immersive interactions, advanced
 
 **May 2023 – Jan 2024**
 
-- Built PHP-based application modules
-- Improved maintainability through reviews
-- Supported Agile delivery cycles
-- Enhanced user experience and stability
+- Built and maintained PHP-based modules
+- Improved application stability and maintainability
+- Participated in code reviews
+- Supported feature delivery and testing workflows
 
 **Skills:** `PHP` `Web Development` `Git`
 
@@ -232,18 +213,16 @@ A Gotham-inspired developer portfolio featuring immersive interactions, advanced
 
 # Engineering Philosophy
 
-> "Code is not the product. The experience created by the code is."
+> Code should create value, not complexity.
 
-I focus on building software that balances:
+I believe great software is built at the intersection of:
 
-- Clean Architecture
-- Performance Optimization
-- Accessibility
-- Security
-- Scalability
-- Business Value
+- Engineering Excellence
+- Product Thinking
+- User Experience
+- Business Impact
 
-Every system should be maintainable, reliable, and capable of evolving with user needs.
+The goal is not simply to write code, but to build systems that remain reliable, scalable, and useful over time.
 
 ---
 
@@ -268,14 +247,6 @@ Every system should be maintainable, reliable, and capable of evolving with user
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 # Current Focus
 
 ```yaml
@@ -286,7 +257,7 @@ Building:
 
 Learning:
   - System Design
-  - Cloud Engineering
+  - Cloud Architecture
   - AI Engineering
 
 Exploring:
@@ -294,10 +265,9 @@ Exploring:
   - Multi-Agent Systems
   - Product Architecture
 
-Open To:
-  - Software Engineering Roles
-  - Product Engineering
-  - AI Engineering
+Seeking:
+  - Software Engineering Opportunities
+  - AI Product Development
   - Open Source Collaboration
 ```
 
@@ -316,7 +286,7 @@ Open To:
 </a>
 
 <a href="https://github.com/pegasus-x">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -324,9 +294,9 @@ Open To:
 ---
 
 <p align="center">
-<b>Building the future through software, AI, and innovation.</b>
+<strong>Building the future through software, AI, and innovation.</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:1A1B27,35:4F46E5,70:7C3AED,100:A855F7"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F172A,25:312E81,50:4F46E5,75:7C3AED,100:A855F7" />
 </p>
