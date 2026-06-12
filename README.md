@@ -159,7 +159,7 @@ A cinematic developer portfolio inspired by Gotham aesthetics featuring immersiv
 - 1+ years of professional web development experience
 - Experience building production web applications using PHP & MySQL
 - Focused on Full Stack Development, AI Products, and SaaS Platforms
-- Currently building AI-powered applications and modern developer tools---
+- Currently building AI-powered applications and modern developer tools
 
 # Engineering Philosophy
 
