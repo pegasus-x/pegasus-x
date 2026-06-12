@@ -2,8 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,35:4F46E5,70:7C3AED,100:A855F7&text=Rati%20Ranjan%20Sendha&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=35" />
 </p>
 
+<h1 align="center">Rati Ranjan Sendha</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Product Builder
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=The+Dark+Knight+of+Code;AI+•+Full+Stack+•+Product+Engineering;Building+Intelligent+Digital+Experiences;Powered+by+Discipline+Driven+by+Curiosity;Pegasus+Protocol+Activated" />
+Building intelligent digital experiences through software engineering, AI, and product thinking.
 </p>
 
 <p align="center">
@@ -32,7 +38,7 @@
 
 ---
 
-# 🦇 About Me
+# The Engineer Behind Pegasus
 
 Software Engineer focused on building scalable web platforms, AI-powered products, and enterprise-grade digital experiences.
 
@@ -62,7 +68,7 @@ My mission is to combine product thinking, software engineering, and artificial 
 
 ---
 
-# 🦇 The Pegasus Protocol
+# The Pegasus Protocol
 
 I approach engineering with a product-first mindset.
 
@@ -74,11 +80,11 @@ Every project I build follows five principles:
 - User Experience
 - Maintainability
 
-Inspired by Batman's discipline and Pegasus' ambition, I believe software engineering is the art of transforming ideas into reliable systems that solve meaningful problems.
+Inspired by discipline, continuous learning, and innovation, I believe software engineering is the art of transforming ideas into reliable systems that solve meaningful problems.
 
 ---
 
-# ⚙️ Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -106,7 +112,7 @@ Inspired by Batman's discipline and Pegasus' ambition, I believe software engine
 
 ---
 
-# 🤖 AI / ML Expertise
+# AI Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
@@ -119,10 +125,10 @@ Inspired by Batman's discipline and Pegasus' ambition, I believe software engine
 
 ---
 
-# 🦇 Featured Arsenal
+# Featured Projects
 
 <details>
-<summary><b>🦇 DentWise — The AI Healthcare Platform</b></summary>
+<summary><b>DentWise — AI Healthcare Platform</b></summary>
 
 ### Enterprise AI Healthcare Platform
 
@@ -140,7 +146,7 @@ DentWise is an AI-powered healthcare assistant designed to automate consultation
 </details>
 
 <details>
-<summary><b>⚡ AI Site Builder — The Website Factory</b></summary>
+<summary><b>AI Site Builder — Website Generation Platform</b></summary>
 
 ### AI SaaS Website Generation Platform
 
@@ -158,7 +164,7 @@ Transforms simple prompts into complete deployment-ready websites using AI-power
 </details>
 
 <details>
-<summary><b>🐎 Pegasus — Digital Command Center</b></summary>
+<summary><b>Pegasus — Digital Command Center</b></summary>
 
 ### Personal Brand Engineering Platform
 
@@ -176,9 +182,9 @@ A premium developer portfolio and command center showcasing projects, skills, an
 </details>
 
 <details>
-<summary><b>🌃 Batman Portfolio — Gotham Showcase</b></summary>
+<summary><b>Batman Portfolio — Gotham Showcase</b></summary>
 
-### Comic-Inspired Developer Portfolio
+### Interactive Developer Portfolio
 
 | Metric | Details |
 |---------|---------|
@@ -189,13 +195,13 @@ A premium developer portfolio and command center showcasing projects, skills, an
 | Impact | Unique Developer Branding |
 | Repository | Public Repository |
 
-A Gotham-inspired developer portfolio featuring immersive interactions and cinematic storytelling.
+A Gotham-inspired developer portfolio featuring immersive interactions, advanced animations, and cinematic storytelling.
 
 </details>
 
 ---
 
-# 💼 Experience
+# Professional Experience
 
 ## Web Developer — Thyo Softech Private Limited
 
@@ -224,7 +230,7 @@ A Gotham-inspired developer portfolio featuring immersive interactions and cinem
 
 ---
 
-# 🦇 Engineering Philosophy
+# Engineering Philosophy
 
 > "Code is not the product. The experience created by the code is."
 
@@ -241,7 +247,7 @@ Every system should be maintainable, reliable, and capable of evolving with user
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=pegasus-x&show_icons=true&theme=midnight-purple&hide_border=true"/>
@@ -254,15 +260,7 @@ Every system should be maintainable, reliable, and capable of evolving with user
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pegasus-x&theme=discord&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Activity
+# Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pegasus-x&theme=tokyo-night"/>
@@ -270,7 +268,7 @@ Every system should be maintainable, reliable, and capable of evolving with user
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -278,7 +276,7 @@ Every system should be maintainable, reliable, and capable of evolving with user
 
 ---
 
-# 🦇 Current Mission
+# Current Focus
 
 ```yaml
 Building:
@@ -286,7 +284,7 @@ Building:
   - AI Site Builder SaaS
   - Pegasus Portfolio
 
-Mastering:
+Learning:
   - System Design
   - Cloud Engineering
   - AI Engineering
@@ -305,7 +303,7 @@ Open To:
 
 ---
 
-# 🤝 Connect
+# Connect
 
 <p align="center">
 
@@ -326,7 +324,7 @@ Open To:
 ---
 
 <p align="center">
-<b>🦇 Building the future from the shadows, one commit at a time.</b>
+<b>Building the future through software, AI, and innovation.</b>
 </p>
 
 <p align="center">
